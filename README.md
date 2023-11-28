@@ -3,13 +3,17 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Before installing React, you need to have Node.js and npm (Node Package Manager) installed on your system.
-If you haven't installed them yet, follow these steps: Visit the Node.js download page at: https://nodejs.org/en/download/
+If you haven't installed them yet, follow these steps: Visit the Node.js download page at: [Node.js](https://nodejs.org/en/download/)
 
 ## Install Create React App
 To install Create React App globally, open a command prompt and run the following command:
 ### `npm install -g create-react-app`
 Or if you want it to only be installed for a specific project and every time you install it you have the most recent version, open a command prompt and run the following command:
 ### `npx create-react-app`
+
+## Create a new React project
+Go to the directory where you want the project to be hosted and run the following command:
+### `create-react-app pruebareact`
 
 ## Available Scripts
 
