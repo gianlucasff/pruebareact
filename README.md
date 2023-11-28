@@ -1,8 +1,16 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-## What do you need to have for the installation of the project?
-installation of node.js, if you don't have it you can obtain it through this link https://nodejs.org/en
+
+## Before installing React, you need to have Node.js and npm (Node Package Manager) installed on your system.
+If you haven't installed them yet, follow these steps: Visit the Node.js download page at: https://nodejs.org/en/download/
+
+## Install Create React App
+To install Create React App globally, open a command prompt and run the following command:
+### `npm install -g create-react-app`
+Or if you want it to only be installed for a specific project and every time you install it you have the most recent version, open a command prompt and run the following command:
+### `npx create-react-app`
+
 ## Available Scripts
 
 In the project directory, you can run:
