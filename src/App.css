@@ -1,0 +1,28 @@
+.App {
+  overflow-x:auto;
+  text-align: center;
+ 
+  background-color: #2d0a4e;
+ 
+}
+
+th {
+  background-color: #3BA070
+
+  ;
+  color: white;
+}
+tr:hover {background-color: coral;}
+td{
+  background-color: #753BAC;
+  color: hsl(240, 3%, 94%);
+}
+th, td {
+  border-bottom: 1px solid #ddd;
+}
+.Title{
+  color: #fff;
+}
+table{
+  margin: auto;
+}
